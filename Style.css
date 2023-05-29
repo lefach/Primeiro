@@ -1,0 +1,31 @@
+body {
+    background-color: teal;
+    font-family: cursive;
+}
+
+h1 {
+    background-color: salmon;
+    text-align: center;
+    border: solid white;
+    width: 600px;
+}
+
+p {
+}
+
+img {
+    width: 290px;
+    height: 290px;
+    border: solid salmon;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+.salmon {
+    background-color: salmon;
+    border: solid white;
+}
+
+.right {
+margin-left: 460px;
+}
